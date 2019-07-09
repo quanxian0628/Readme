@@ -1,0 +1,9 @@
+1- 开发工具eclipse 2019-3
+
+2- 开发环境jdk1.8、tomcat8.5
+
+3- 《quanxian0627》后台“缺少”写登录界面。
+
+4- 《qiantai0709》前台是全的。
+
+5- github链接：https://github.com/quanxian0628
